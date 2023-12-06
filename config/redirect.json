@@ -2,7 +2,7 @@
   {
     "scope": ".*\\.media.ahkalex\\.com",
     "rules": {
-      "example": "https://baidu.com/"
+      "example": "https://media.ahkalex.com/"
     }
   },
   {
