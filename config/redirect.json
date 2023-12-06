@@ -1,6 +1,6 @@
 [
   {
-    "scope": ".*\\.your-domain\\.com",
+    "scope": ".*\\.media.ahkalex\\.com",
     "rules": {
       "example": "https://baidu.com/"
     }
